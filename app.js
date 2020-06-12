@@ -1,1 +1,2 @@
-// document.querySelector('#title').innerHTML = 'test'
+const grid = document.querySelector('#grid')
+

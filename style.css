@@ -1,3 +1,11 @@
 h1 {
   color: purple;
 }
+
+.grid {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  border: solid black 2px;
+}
